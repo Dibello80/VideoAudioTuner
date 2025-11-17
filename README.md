@@ -25,6 +25,22 @@ The idea is:
 
 ---
 
+## 📸 Screenshots
+
+### 🎛️ Volume Tuner – Real-Time Audio Dashboard  
+The GUI where you adjust volume, EQ, gate/expander, and save presets.
+
+![Volume Tuner Dashboard](images/volumetuner_dashboard.png)
+
+---
+
+### ⚙️ Automatic Processing in Background  
+The headless watcher applies your saved audio tuning to all new videos.
+
+![Processing Audio](images/processing_audio.png)
+
+---
+
 ## Features
 
 ### Volume Tuner (GUI)
